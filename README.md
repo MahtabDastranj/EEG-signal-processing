@@ -43,4 +43,4 @@ This resource is intended to serve as a quick-reference guide or educational aid
 
 ## 📄 License
 
-This course is NOT open-source and available for academic and educational use. Please cite appropriately if you find it useful.
+This course is NOT open-source. Please cite appropriately if you find it useful.
